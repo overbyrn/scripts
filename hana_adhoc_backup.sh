@@ -75,7 +75,7 @@ Environment variables accepted:
 
 Example:
   export _DBUSER=SYSTEM
-  export _DBPASS='superSecretPassword'
+  export _DBPASS='password'
   export _DBNAME_TARGET=SYSTEMDB
   export _BACKUPLOC=/backup/adhoc
   export _BACKUPDESC=PRE_SUM_DOWNTIME
